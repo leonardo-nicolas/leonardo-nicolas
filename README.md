@@ -3,9 +3,11 @@
 ![Aproveita e me siga aqui!😉](https://img.shields.io/github/followers/leonardon397.svg?style=social&label=Follow&maxAge=2592000)
 #### Me chamo Leonardo! 
 #### I'm Leonardo!
-
 #### (ou simplesmente | or simply, LEO 😅😁)
 
+Sou do Rio de Janeiro (state) - Brasil. Nascido na Capital do RJ e já morei em várias cidades diferentes do Rio de Janeiro.
+
+I'm from Rio de Janeiro (state) - Brazil. Born in the capital of Rio de Janeiro and have lived in many different cities in Rio de Janeiro.
 
 ##### PT-BR
 * Atualmente aprendendo Angular e TypeScript, e colocando em prática em um site ainda em construção;
@@ -47,6 +49,15 @@
 
 ##### Desprezos (Não me pergunte o porquê) | Hate (Don't ask-me why)
 ![Apple](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+##### Minhas IDE's ou editores favoritas | My Favorite IDE or Code Editor
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+##### Meus Softwares de Design Favoritos | My Favorite Design Softwares
+![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 <div>
   <a href="https://www.linkedin.com/in/leonardo-nicolas-sales-dias-2a3892149/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
