@@ -114,10 +114,7 @@ I'm from Rio de Janeiro (state) - Brazil. Born in the capital of Rio de Janeiro 
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 
 ##### Desprezos (Não me pergunte o porquê) | Hate (Don't ask-me why)
-![Apple](https://img.shields.io/badge/Apple-Apple_Silicon-FFFFFF?style=for-the-badge&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
 
 ## Um Pouco Mais Sobre Mim | A Little More About me
 <div>
