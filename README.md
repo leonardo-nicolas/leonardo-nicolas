@@ -9,20 +9,20 @@
 
 
 
-
-<img width="42" height="42" src="./img/fedora.svg" title="Fedora Linux"/>
-<img width="42" height="42" src="./img/linux.svg" title="Linux"/>
-<img width="42" height="42" src="./img/dotnet.svg" title="Microsoft .NET Framework | Microsoft .NET core | Microsoft.NET"/>
-<img width="42" height="42" src="./img/csharp-green.svg" title="C#"/>
-<img width="42" height="42" src="./img/nodejs.svg" title="Node JS"/>
-<img width="42" height="42" src="./img/html5.svg" title="HTML"/>
-<img width="42" height="42" src="./img/css3.svg" title="CSS"/>
-<img width="42" height="42" src="./img/ts.svg" title="TypeScript"/>
-<img width="42" height="42" src="./img/javascript.svg" title="JavaScript"/>
-<img width="42" height="42" src="./img/angular.svg" title="Angular"/>
-<img width="42" height="42" src="./img/angular-material.svg" title="Angular Material"/>
-<img width="51" height="42" src="./img/bootstrap.png" title="Bootstrap"/>
-
+<div>
+  <img width="42" height="42" src="./img/fedora.svg" title="Fedora Linux"/>
+  <img width="42" height="42" src="./img/linux.svg" title="Linux"/>
+  <img width="42" height="42" src="./img/dotnet.svg" title="Microsoft .NET Framework | Microsoft .NET core | Microsoft.NET"/>
+  <img width="42" height="42" src="./img/csharp-green.svg" title="C#"/>
+  <img width="42" height="42" src="./img/nodejs.svg" title="Node JS"/>
+  <img width="42" height="42" src="./img/html5.svg" title="HTML"/>
+  <img width="42" height="42" src="./img/css3.svg" title="CSS"/>
+  <img width="42" height="42" src="./img/ts.svg" title="TypeScript"/>
+  <img width="42" height="42" src="./img/javascript.svg" title="JavaScript"/>
+  <img width="42" height="42" src="./img/angular.svg" title="Angular"/>
+  <img width="42" height="42" src="./img/angular-material.svg" title="Angular Material"/>
+  <img width="51" height="42" src="./img/bootstrap.png" title="Bootstrap"/>
+</div>
 
 
 
