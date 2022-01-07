@@ -22,6 +22,11 @@
   <img width="42" height="42" src="./img/angular.svg" title="Angular"/>
   <img width="42" height="42" src="./img/angular-material.svg" title="Angular Material"/>
   <img width="51" height="42" src="./img/bootstrap.png" title="Bootstrap"/>
+  <img width="42" height="42" src="./img/sqlite.svg" title="SQLite"/>
+  <img width="42" height="42" src="./img/mysql.svg" title="MySQL">
+  <img width="42" height="42" src="./img/sql-server.svg" title="Microsoft SQL Server">
+  <img width="42" height="42" src="./img/postgresql.svg" title="PostgreSQL">
+  <img width="42" height="42" src="./img/mongodb.svg" title="MongoDB"/>
 </div>
 
 
