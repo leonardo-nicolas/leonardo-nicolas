@@ -12,6 +12,7 @@
 <div>
   <img width="42" height="42" src="./img/fedora.svg" title="Fedora Linux"/>
   <img width="42" height="42" src="./img/linux.svg" title="Linux"/>
+  <img width="42" height="42" src="./img/git.svg" title="GIT Source Code Management"/>
   <img width="42" height="42" src="./img/dotnet.svg" title="Microsoft .NET Framework | Microsoft .NET core | Microsoft.NET"/>
   <img width="42" height="42" src="./img/csharp-green.svg" title="C#"/>
   <img width="42" height="42" src="./img/nodejs.svg" title="Node JS"/>
