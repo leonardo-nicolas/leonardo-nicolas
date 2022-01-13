@@ -27,6 +27,7 @@
   <img width="42" height="42" src="./img/sql-server.svg" title="Microsoft SQL Server">
   <img width="42" height="42" src="./img/postgresql.svg" title="PostgreSQL">
   <img width="42" height="42" src="./img/mongodb.svg" title="MongoDB"/>
+  <img width="42" height="42" src=""/>
 </div>
 
 
