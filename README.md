@@ -1,7 +1,7 @@
 # Leonardo Nicolas 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-nicolas-sales-dias-2a3892149/)
-[![Twitter](https://img.shields.io/badge/%40LNSDias-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lnsdias)
-[![Instagram](https://img.shields.io/badge/%40LNSDias-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/lnsdias)
+[![Twitter](https://img.shields.io/badge/%40leonicolasdev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/leonicolasdev)
+[![Instagram](https://img.shields.io/badge/%40LeonardoNicolas.dev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/leonardonicolas.dev)
 
 🇧🇷Para ver mais detalhes completo sobre mim, [clique aqui](https://github.com/leonardon397/leonardon397/blob/main/FULL-ABOUT-ME.md).🇧🇷 
 <br>
