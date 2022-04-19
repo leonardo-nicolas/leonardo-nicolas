@@ -124,12 +124,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
-#### 🇧🇷Desprezos (Não me pergunte o porquê)🇧🇷 <br> 🇺🇸Hate (Don't ask-me why)🇬🇧
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-<br>
-\* Se tiver de usar, eu uso! Mas eu não gosto desses listados aqui!<br>
-\* If I have to use it, I use it! But I don't like those listed here!
-
 #### 🇧🇷Algumas empresas em que tenho esperança em fazer parte do time algum dia🇧🇷 <br> 🇺🇸Some companies that I hope in being part of the team🇬🇧
 ![Micosoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
