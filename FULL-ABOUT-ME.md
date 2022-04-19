@@ -2,7 +2,7 @@
 ![Aproveita e me siga aqui!😉](https://img.shields.io/github/followers/leonardon397.svg?style=social&label=Follow&maxAge=2592000)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-nicolas-sales-dias-2a3892149/)
 [![Twitter](https://img.shields.io/badge/%40LNSDias-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lnsdias)
-[![Instagram](https://img.shields.io/badge/%40LNSDias-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/lnsdias)
+[![Instagram](https://img.shields.io/badge/%40LNSDias-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/leonardonicolas.dev/)
 
 #### Me chamo Leonardo! 
 #### I'm Leonardo!
