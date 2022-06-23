@@ -162,7 +162,7 @@
 Disclaimer: Little part of this page was translated with Google Translate
 
 
-<a href="./README.md">Back to README</a>
+<a href="https://github.com/leonardo-nicolas">Back to README</a>
 <h4>
     <a href="./FULL-ABOUT-ME-EN.md">
         <img src="./img/emojis/1f1e7-1f1f7.svg" width="12">

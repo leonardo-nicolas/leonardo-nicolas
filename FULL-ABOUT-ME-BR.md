@@ -161,7 +161,7 @@
 
 <img src="./img/emojis/270d-1f3fb.svg" width="16">Esta página está sujeita a atualizações<img src="./img/emojis/1f1e7-1f1f7.svg" width="16">
 
-<a href="./README.md">Voltar para o README</a>
+<a href="https://github.com/leonardo-nicolas">Voltar para o README</a>
 <h4>
     <a href="./FULL-ABOUT-ME-EN.md">
         <img height="12" src="./img/emojis/1f1fa-1f1f8.svg">
