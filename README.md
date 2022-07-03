@@ -51,8 +51,8 @@
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="./img/emojis/1f1e7-1f1f7.svg" width="12"> Ensino superior em andamento... <img src="./img/icons/emojis/1f1e7-1f1f7.svg" width="12"><br>
-            <img height="12" src="./img/icons/emojis/1f1fa-1f1f8.svg"> College in progress... <img height="12" src="./img/emojis/1f1ec-1f1e7.svg">
+            <img src="./img/emojis/1f1e7-1f1f7.svg" width="12"> Ensino superior em andamento... <img src="./img/emojis/1f1e7-1f1f7.svg" width="12"><br>
+            <img height="12" src="./img/emojis/1f1fa-1f1f8.svg"> College in progress... <img height="12" src="./img/emojis/1f1ec-1f1e7.svg">
         </td>
     </tr>
 </table>
