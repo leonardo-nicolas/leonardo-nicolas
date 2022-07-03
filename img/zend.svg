@@ -1,0 +1,13 @@
+<svg width="1064" height="532" inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)" sodipodi:docname="zend.svg" version="1.1" viewBox="0 0 281.52 140.76" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="397.07687" inkscape:cy="561.25984" inkscape:document-units="mm" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1011" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="0.69130191" pagecolor="#ffffff" showgrid="false" units="px"/>
+ <g inkscape:groupmode="layer" inkscape:label="Camada 1">
+  <g transform="translate(-6.2684 -1.6864)" fill="#68b604">
+   <g stroke-width="1.474">
+    <path d="m139.02 44.683s0-35.877 35.877-35.877h107.6s0 35.877-35.877 35.877z"/>
+    <path d="m139.02 90.524s0-35.803 35.818-35.803h53.815s0 35.877-35.877 35.877z"/>
+    <path d="m139.02 136.36s0-35.951 35.818-35.951h17.938s0 35.877-35.877 35.877z"/>
+   </g>
+   <polygon transform="matrix(1.474 0 0 1.474 11.56 6.9781)" points="7.14 0 88.78 0 38.6 68.78 78.27 68.78 78.27 88.2 0 88.2 50.42 19.42 7.14 19.42"/>
+  </g>
+ </g>
+</svg>
