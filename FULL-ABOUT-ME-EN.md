@@ -1,6 +1,6 @@
 # Hi! <img src="./img/emojis/1f64b-1f3fb-200d-2642-fe0f.svg" width="24"><img src="./img/emojis/1f44b-1f3fb.svg" width="24"> 
 ![Aproveita e me segue](https://img.shields.io/github/followers/leonardo-nicolas.svg?style=social&label=Follow&maxAge=2592000)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-nicolas-sales-dias-2a3892149/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-nicolas/)
 [![Instagram](https://img.shields.io/badge/%40leonardonicolas.dev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/leonardonicolas.dev/)
 
 ## I'm Leonardo Nicolas! (Or, just LEO <img src="./img/emojis/1f605.svg" width="16"> <img src="./img/emojis/1f601.svg" width="16">)
