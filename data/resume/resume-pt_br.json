@@ -1,0 +1,25 @@
+[
+    {
+        "companyName": "Desenvolvimento de Sistemas Digitais SD LTDA",
+        "jobTitle": "Programador Junior CLT",
+        "jobResponsibilities": [
+            "Manutenção de sistema legado escrito em C++ da embarcadero (onde se usa todo o ecossistema delphi, mas só que escrito em C++), além do desenvolvimento e manutenção do app mobile em flutter em que, o mesmo é usado também em PC\"s e Mac\"s.",
+            "Além de fazer engenharia reversa de bancos de dados de sistemas concorrentes, para a virada de dados para o sistema da empresa, durante a implantação do mesmo.",
+        ],
+        "startDate": "2023-02-06T00:00:00.000Z"
+    },
+    {
+        "companyName": "EdukInfo (empresa fictícia de um projeto acadêmico com nota final, reaproveitado para TCC)",
+        "jobTitle": "Programador líder do projeto acadêmico",
+        "jobResponsibilities": [
+            "Desenvolvimento de um comércio eletrônico para fins acadêmicos, onde, foi feito durante a aula de desenvolvimento WEB da Universidade Estácio de Sá.",
+            "Onde o mesmo foi escrito usando o framework Angular 11 + bootstrap 5 no front-end e PHP puro no back-end, além do PostgreSQL como banco de dados.",
+            "O projeto foi feito em um grupo de 6 alunos, onde, eu fui o líder do projeto e, eu fiz a maior parte do back-end e um pouco mais da metade do front-end.",
+            "Além de ser o responsável pela entrega do mesmo e, os colegas do grupo contribuindo com o projeto, onde, cada um fez uma parte do mesmo, sendo que, o mesmo foi feito em 3 meses, só o Front-end. O back-end, foi feito em paralelo.",
+            "Tem sistema de Ckeckout incompleto, devivo de fato não haver necessidade. ",
+            "Mas tem sistema de confirmação de e-mail corretamente, tem sistema de recuperação de senha, criptografia de senha e de dados sensíveis (como número de cartão de crédito, endereços, etc)."
+        ],
+        "startDate":"2022-02-01T00:00:00.000Z",
+        "endDate": "2022-06-15T00:00:00.000Z"
+    }
+]

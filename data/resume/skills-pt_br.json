@@ -1,0 +1,42 @@
+[
+    {
+        "name": "PHP",
+        "description": "Desde o PHP 5"
+    },
+    {
+        "name": "JavaScript",
+        "description": "somente do jQuery 1.4 ao 1.7, posteriormente migrando para o TypeScript"
+    },
+    {
+        "name": "Delphi",
+        "description": "Começando do Borland Delphi 7, continuando do 10.x até os mais recentes"
+    },
+    {
+        "name": "Visual Basic",
+        "description": "desde o 6 até o .NET"
+    },
+    {
+        "name": "C#",
+        "description": "desde o .net framework 3.5, até os mais recentes de todos"
+    },
+    {
+        "name": "Java",
+        "description": "desde o 1.7, até os mais recentes"
+    },
+    {
+        "name": "Python",
+        "description": "desde o 3.9, até os mais recentes"
+    },
+    {
+        "name": "TypeScript",
+        "description": "desde o 4.0, até os mais recentes"
+    },
+    {
+        "name": "C++",
+        "description": "desde o C++ 17 por diante"
+    },
+    {
+        "name": "SQL",
+        "description": "Desde o MySQL 5.0, só que, no momento, a ênfase é no PostgreSQL e Firebird 3 por diante"
+    }
+]

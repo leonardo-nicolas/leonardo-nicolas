@@ -1,0 +1,30 @@
+[
+    {
+        "name":"Dart+Flutter",
+        "description":"Somente as versões mais recentes"
+    },
+    {
+        "name":"Angular",
+        "description":"Do 11 por diante"
+    },
+    {
+        "name":"Spring Boot",
+        "description":null
+    },
+    {
+        "name":"Kotlin",
+        "description":null
+    },
+    {
+        "name":"Vue.js",
+        "description":"Do 3.5 por diante"
+    },
+    {
+        "name":"Docker / Kubernetes",
+        "description":null
+    },
+    {
+        "name":"Inteligência Artificial",
+        "description":null
+    }
+]
